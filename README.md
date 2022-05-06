@@ -1,5 +1,5 @@
 # BackendWebDev_practice
 
-*This repo is all about backend*
+*This repo is all about backend development*
 
 *THANK YOU!!*
